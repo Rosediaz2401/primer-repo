@@ -1,1 +1,10 @@
 Hola Marvel
+
+main(master)= producto final
+develop= trabajando actualmente
+feature=  una rama donde se trabaja algo en especifico
+hotfix= correcciones
+
+feature/menu-nuevo
+hotfix/mensajes-wa
+
